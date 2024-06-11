@@ -50,10 +50,7 @@ If you would like to contribute to the project, please follow our [contribution 
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-- Special thanks to the contributors and maintainers of the project.
-- Mention any external libraries or frameworks used.
+ 
 
 ---
 
